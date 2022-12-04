@@ -19,7 +19,7 @@ def run():
   percentages = list(map(lambda x: x['World Population Percentage'], data))
   
 
-  country = input('Type Country => ')
+  country =  input('Type Country => ').capitalize()
 
   result = utils.population_by_country(data, country)
 
