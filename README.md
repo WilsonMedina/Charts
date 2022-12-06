@@ -16,3 +16,9 @@ source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
 ``` 
+
+# Global folder
+
+```sh
+to activate vevn whit the alias command ven 
+```
