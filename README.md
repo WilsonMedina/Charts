@@ -5,6 +5,7 @@ For run the game you must follow the next instructuons in terminal
 ```sh
 cd game
 python3 main.py
+to activate vevn whit the alias command ven
 ``` 
 
 # App Projet
